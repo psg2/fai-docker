@@ -24,4 +24,3 @@ media/
 venv/
 
 .vscode/
-migrations/
